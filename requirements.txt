@@ -1,0 +1,9 @@
+flask==2.2.3
+# tomotopy
+pandas
+scikit-learn
+torch
+spacy
+contextualized_topic_models
+tomotopy==0.12.4
+Werkzeug==2.3.7
